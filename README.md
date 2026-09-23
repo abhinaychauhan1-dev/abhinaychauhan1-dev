@@ -56,7 +56,7 @@ I'm a Senior C++ & Embedded Systems Developer/Architect specializing in high-rel
 
 ### 📬 Connect With Me
 
-* 📧 **Email:** [abhinay.chauhan1@gmail.com] (mailto:abhinay.chauhan1@gmail.com)
+* 📧 **Email: mailto:abhinay.chauhan1@gmail.com
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/abhinay-c-4507768b/](https://www.linkedin.com/in/abhinay-c-4507768b/)
 
 ---
