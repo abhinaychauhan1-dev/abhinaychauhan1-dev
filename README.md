@@ -7,7 +7,7 @@ I'm a Senior C++ & Embedded Systems Developer/Architect specializing in high-rel
 ---
 
 ### 💼 What I Work On
-* 🏥 Medical Device Software & Smart Healthcare Systems (Ventilator HMIs, Patient Monitoring, & Medtronic Healthcare Solutions)
+* 🏥 Medical Device Software & Smart Healthcare Systems (Ventilator HMIs, Patient Monitoring, & Healthcare Solutions)
 * ⚡ EV Charging Software (AC/DC Chargers, Energy Management)
 * 🚗 Automotive Digital Cockpits & Instrument Clusters
 * ⚙️ High-Reliability C++ & Embedded Systems
